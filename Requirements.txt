@@ -1,0 +1,27 @@
+LLD Bootcamp Assignment 1:Book My Show Design
+
+Here's the list of requirements/actors:
+
+
+1.Customers:
+	a.Searching based on movies/time/location/theatres/visual effects(2D,3d etc)
+    b.Selection of seats
+	c.Selection of food.
+	d.Cancellation.
+	d.Payments.
+	
+2. Theatres:
+	a.List of movies
+	b.Availaibilty depending on time/visual effects etc
+	c.Capacity
+	
+3. System:
+    a. Onboarding
+    b. Generation of E-tickets/QR codes
+	c. Notifications/Reminders
+	d. Chatbots
+	
+Common ones:
+1. Authorization
+2. Feedbacks
+	
